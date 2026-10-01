@@ -1,0 +1,14 @@
+.fs-heading-1{ font-size: 1.5rem; }
+.fs-heading-2{ font-size: 1rem; }
+.fs-heading-3{ font-size: 0.5rem; }
+
+.bg-color-gray-1{ background-color: #333333; }
+
+.pl-1x{ padding-left: 8px; }
+.pl-2x{ padding-left: 16px; }
+.pr-1x{ padding-right: 8px; }
+.pr-2x{ padding-right: 16px; }
+.pt-1x{ padding-top: 8px; }
+.pt-2x{ padding-top: 16px; }
+.pb-1x{ padding-bottom: 8px; }
+.pb-2x{ padding-bottom: 16px; }
